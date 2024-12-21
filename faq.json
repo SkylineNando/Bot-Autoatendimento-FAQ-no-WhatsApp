@@ -1,0 +1,8 @@
+{
+  "initial": "Selecione uma opção:\n1. Horário\n2. Preços\n3. Localização",
+  "responses": {
+    "1": "Nosso horário de funcionamento é das 8h às 18h.",
+    "2": "Os preços variam de R$100 a R$300.",
+    "3": "Estamos localizados na Chapada dos Veadeiros."
+  }
+}
